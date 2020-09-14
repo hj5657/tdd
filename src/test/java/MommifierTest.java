@@ -9,4 +9,5 @@ public class MommifierTest {
         String result = mommifier.convert("hhhhh");
         Assertions.assertEquals("hhhhh",result);
     }
+
 }
